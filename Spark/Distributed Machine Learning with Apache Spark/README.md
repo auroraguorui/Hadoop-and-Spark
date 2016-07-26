@@ -25,6 +25,14 @@ Practice in fulfillment of Distributed Machine Learning with Apache Spark (CS120
    - Visualization 6: Hyperparameter heat map
  - Part 5: Add interactions between features
 
-4. Lab3: 
+4. Lab3: Click through rate prediction 
+ - Part 1: Featurize categorical data using one-hot-encoding (OHE)
+ - Part 2: Construct an OHE dictionary
+ - Part 3: Parse CTR data and generate OHE features
+    - Visualization 1: Feature frequency
+ - Part 4: CTR prediction and logloss evaluation
+    - Visualization 2: ROC curve
+ - Part 5: Reduce feature dimension via feature hashing
+
 
 Full course material can be found [here](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016/fbe63aa3c95948e3912fa128aedec27d/)
