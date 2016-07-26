@@ -14,15 +14,15 @@ Practice in fulfillment of Distributed Machine Learning with Apache Spark (CS120
 
 3. Lab2: Linear regression
  - Part 1: Read and parse the initial dataset
-  - Visualization 1: Features
-  - Visualization 2: Shifting labels
+   - Visualization 1: Features
+   - Visualization 2: Shifting labels
  - Part 2: Create and evaluate a baseline model
-  - Visualization 3: Predicted vs. actual
+   - Visualization 3: Predicted vs. actual
  - Part 3: Train (via gradient descent) and evaluate a linear regression model
-  - Visualization 4: Training error
+   - Visualization 4: Training error
  - Part 4: Train using SparkML and tune hyperparameters via grid search
-  - Visualization 5: Best model's predictions
-  - Visualization 6: Hyperparameter heat map
+   - Visualization 5: Best model's predictions
+   - Visualization 6: Hyperparameter heat map
  - Part 5: Add interactions between features
 
 4. Lab3: 
