@@ -34,5 +34,21 @@ Practice in fulfillment of Distributed Machine Learning with Apache Spark (CS120
     - Visualization 2: ROC curve
  - Part 5: Reduce feature dimension via feature hashing
 
+5. Lab4: Principal Component Analysis
+ - Part 1: Work through the steps of PCA on a sample dataset
+    - Visualization 1: Two-dimensional Gaussians
+ - Part 2: Write a PCA function and evaluate PCA on sample datasets
+    - Visualization 2: PCA projection
+    - Visualization 3: Three-dimensional data
+    - Visualization 4: 2D representation of 3D data
+ - Part 3: Parse, inspect, and preprocess neuroscience data then perform PCA
+    - Visualization 5: Pixel intensity
+    - Visualization 6: Normalized data
+    - Visualization 7: Top two components as images
+    - Visualization 8: Top two components as one image
+- Part 4: Perform feature-based aggregation followed by PCA
+    - Visualization 9: Top two components by time
+    - Visualization 10: Top two components by direction
+ 
 
 Full course material can be found [here](https://courses.edx.org/courses/course-v1:BerkeleyX+CS120x+2T2016/fbe63aa3c95948e3912fa128aedec27d/)
